@@ -59,3 +59,9 @@ python app.py
 ```
 
 터미널에 표시되는 URL (예: `http://127.0.0.1:7860`)을 웹 브라우저에서 열어주세요.
+
+<img width="1891" height="387" alt="과제1" src="https://github.com/user-attachments/assets/557d1b19-d09c-4a70-b745-dd7454e275f4" />
+
+<img width="1891" height="394" alt="과제2" src="https://github.com/user-attachments/assets/676d23d6-7760-4493-aae0-c33d95847b67" />
+
+
