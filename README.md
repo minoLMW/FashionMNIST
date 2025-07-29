@@ -1,4 +1,4 @@
-# 🧥 FashionMNIST CNN 이미지 분류기
+#  FashionMNIST CNN 이미지 분류기
 
 PyTorch와 Gradio를 사용하여 구현한 패션 아이템 이미지 분류 데모입니다.
 
@@ -19,7 +19,7 @@ CNN/
     └── fashion-mnist_test.csv
 ```
 
-## 🚀 시작하기
+##  시작하기
 
 ### 1. 가상환경 생성 및 활성화 (권장)
 
